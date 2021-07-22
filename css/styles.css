@@ -590,8 +590,6 @@ img {
 
 .portfolio-link .heading {
   margin-bottom: 4px;
-  padding-top: 20px;
-  padding-left: 24px;
 
   font-weight: 700;
   font-size: 18px;
@@ -600,15 +598,19 @@ img {
   text-transform: none;
 }
 
+.description {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 24px;
+}
+
 .portfolio {
   padding-top: 94px;
   padding-bottom: 94px;
 }
 
-.portfolio-link > p {
+.portfolio-link p {
   margin: 0;
-  padding-bottom: 20px;
-  padding-left: 24px;
 }
 
 .portfolio .card-thumb {
