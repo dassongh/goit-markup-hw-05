@@ -33,6 +33,8 @@ ul {
 
 img {
   display: block;
+  width: 100%;
+  height: auto;
 }
 /* убрал зазор в 4px */
 
